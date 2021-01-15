@@ -5,7 +5,6 @@
 ### HOW TO USE:
 
 You may use ASCIIeNGINE in two ways:
-	
-	
-1: Directly implement all the files into your project and put them into your Makefile
-2: Compile into a library and use it that way
+
+1. Directly implement all the files into your project and put them into your Makefile
+2. Compile into a library and use it that way
