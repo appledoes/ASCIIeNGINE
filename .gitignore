@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# Nano Backups
+*.c~
+*.h~
+
 # Object files
 *.o
 *.ko
